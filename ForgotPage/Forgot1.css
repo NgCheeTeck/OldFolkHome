@@ -1,0 +1,63 @@
+body {
+  background-image: url("MainBackgroud.jpg");
+  margin :0;
+  padding :0;
+    background-position: center;
+    background-attachment: fixed;
+ position: relative;
+  margin-top:1.55%;
+   width: 100%;
+     height: 100%;
+  
+}
+
+
+h1{ 
+
+  color:#fff;
+    width: 100%;
+  
+  text-align: center;
+  font-family:Lucida Sans Unicode;
+  font-size :35px;
+}
+
+div.nav3{
+
+  position: relative;
+  width: 21%;
+  left:590px;
+  bottom: -157px;
+  border: solid black;
+ background-color:#009;
+color: white;
+font-family: Arial;
+padding: 12px;
+
+}
+
+#cofrim{
+font-size: 99%;
+}
+
+
+#Dont a {
+
+  color:#fff;
+}
+
+
+#Dont  {
+
+  color:#fff;
+}
+
+
+div.aa
+
+ color:#fff;{
+color:green;
+    font-family: Consolas, Baskerville, 'Segoe UI', sans-serif;
+}
+
+ }
