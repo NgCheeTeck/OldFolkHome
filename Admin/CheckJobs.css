@@ -1,0 +1,184 @@
+h1{ 
+	margin-left:75px;
+	color:#fff;
+	 margin-top:1%;
+    width: 100%;
+	text-align: center;
+	font-family:Lucida Sans Unicode;
+	font-size :35px;
+	
+}
+h2{ 
+
+	color:#fff;
+	 margin-top:1%;
+ 
+text-align: center;
+	font-family:Lucida Sans Unicode;
+	font-size :30px;
+	
+}
+
+
+p{
+
+text-align: center;
+	color:#fff;
+	font-size :20px;
+}
+
+
+body {
+	background-image: url("MainBackgroud.jpg");
+	margin :0;
+	padding :0;
+    background-position: center;
+    background-attachment: fixed;
+
+	 width: 90%;
+   height: 100%;
+	
+}
+
+a:link, a:visited {
+  background-color: white;
+  color: black;
+  border: 2px solid black;
+  padding: 1px 1px;
+  text-align: center;
+  text-decoration: none;
+ 
+  display: inline-block;
+}
+
+
+
+a:hover, a:active {
+  background-color: 90EE90;
+  color:  #800080;
+}
+
+
+	
+.center {
+  margin-left: 180px;
+  
+
+}
+
+div.my_class{
+		position: relative;
+		text-align:center;
+       
+}
+
+
+
+textare.b{
+width: 100px;
+  height: 150px;	
+
+}
+
+td {
+  text-align: center;
+
+}
+
+
+#texta1{
+  width: 300px;
+  color: #fff;
+  height: 150px;
+   resize: none;
+}
+ 
+
+#texta{
+	   resize: none;
+	  
+}
+
+
+
+
+
+div.Mediumnav{
+        
+		 position: relative;
+		margin-left:360px;
+       
+		
+		  bottom: -400px;
+		  background:linear-gradient(to top,lightblue 10%,transparent 80%);
+         }
+
+
+
+#mainMenu {
+	  width: inherit;
+                height: inherit;
+                margin: 0;
+                padding: 0;
+	font-family:Verdana;
+	text-align: center;
+	
+}
+#mainMenu li {
+	display:block;
+	width:200px;
+	float:left;
+	margin-left:45px;
+	border:1px solid #black;
+}
+
+#mainMenu a {
+	display:block;
+	padding:7px;
+	
+	text-decoration:none;
+	background-color:#FFE5B4;
+	color:#A52A2A;
+}
+
+#mainMenu a:hover {
+	background-color:#009;
+	color:#fff;
+}
+
+
+
+div.fixed {
+  position: relative;
+  width:1513;
+  bottom: -109px;
+ background:#90EE90;
+ text-align:center;
+   margin-left:5px;
+    margin-right:auto;
+}
+
+
+div.topnav{
+
+  position: relative;
+  width: 100%;
+  bottom: -30px;
+    margin-left:135px;
+
+}
+
+
+div.loginAlready{
+position: absolute;
+left:1051px;
+  bottom: 581px;
+ background:#90EE90;
+   border: solid black;
+  height: 54px;
+text-align: center;
+width: 20%;
+
+}
+
+.w3-button {width:40px;}
