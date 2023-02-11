@@ -1,0 +1,105 @@
+#mainMenu {
+	width: inherit;
+    height: inherit;
+    margin: 0;
+    padding: 0;
+	font-family:Verdana;
+	text-align: center;	
+	font-size :1.1vw;
+	
+}
+
+#mainMenu li {
+	display:block;
+	width:200px;
+	float:left;
+	margin-left:45px;
+	border:1px solid;
+}
+
+#mainMenu a {
+	display:block;
+	padding:7px;
+	background-color:#FFE5B4;
+	color:#A52A2A;
+	text-decoration:none;
+	
+}
+
+#mainMenu a:hover {
+	background-color:#009;
+	color:#fff;
+}
+
+
+div.pleaseLogin{ 
+
+  position:relative;
+  width:25%;
+  left:800px;
+  top:10px;
+  border:1px solid;
+  background:#ffdfd3;
+
+}
+
+div.topnav{
+  position: relative;
+ 	margin-left:200; 
+ 	bottom: -10px;
+	margin-right:auto;
+}
+
+
+
+
+
+div.fixed{
+	position: relative;
+	bottom: -80px;
+	font-size: 16px;
+	font-family:Lucida Sans Unicode;
+	color: #black;
+	background:#fff;
+	font-size :1.1vw;
+}
+
+
+
+
+h2{
+text-align: center;
+}
+
+
+p{
+	
+text-align: center
+
+}
+
+h4{
+	
+text-align: center
+
+}
+
+
+
+
+
+
+#cssTable td 
+{
+    text-align: center; 
+    vertical-align: middle;
+}
+
+
+iframe{
+	position:relative;
+	margin-left:auto;
+	margin-right:auto;
+	display:block;
+
+}
