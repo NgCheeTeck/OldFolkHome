@@ -77,7 +77,7 @@ if($rs3) {
 		$mail->Host = 'smtp.gmail.com';			    
 		$mail->SMTPAuth = true;
 		$mail->Username = 'localhostChupapi@gmail.com';
-		$mail->Password = 'xolfcpxrpnlfxune';			    
+		$mail->Password = 'oslvqghjabpkewqx';			    
 		$mail->SMTPSecure = 'ssl';
 		$mail->Port = 465;
 		$mail->SetFrom('localhostChupapi@gmail.com', 'Happy Old Folk Home');	    
