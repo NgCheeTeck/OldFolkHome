@@ -186,7 +186,7 @@ function redirect(){
     $mail->Host = 'smtp.gmail.com';
     $mail->SMTPAuth = true;
     $mail->Username = 'localhostChupapi@gmail.com';
-    $mail->Password = 'crzoysziwiabpitt';
+    $mail->Password = 'oslvqghjabpkewqx';
     
 	$mail->SMTPSecure = 'ssl';
     $mail->Port = 465;
